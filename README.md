@@ -1,0 +1,1 @@
+Collect data from your website using forms, surveys, or other methods to gather information about your customers. This data can include demographic information, opinions, preferences, and other relevant data.
